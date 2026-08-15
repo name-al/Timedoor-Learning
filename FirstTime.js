@@ -62,3 +62,5 @@ console.log(holidayPlan);
 holidayPlan[4] = 'bali';
 holidayPlan[5] = 'hokkaido';
 console.log(holidayPlan);
+
+console.log("test github")

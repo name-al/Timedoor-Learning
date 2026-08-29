@@ -11,3 +11,5 @@ for (i=0; i<gameTime.length; i++){
     
 }
 console.log (`Waktu yang kelebihan : ${extraTime} hari, dengan total ${totalTime} hari`)
+
+// commented test upload using git extention on VsCode

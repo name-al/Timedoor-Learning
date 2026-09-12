@@ -1,15 +1,15 @@
-var gameTime = [2,2,3,3,1,4,5]
-var extraTime = 0
-var totalTime = 0
+// var gameTime = [2,2,3,3,1,4,5]
+// var extraTime = 0
+// var totalTime = 0
 
-for (i=0; i<gameTime.length; i++){
-    if(gameTime[i] > 2){
-        extraTime++;
-    }
-        // console.log(gameTime[i]);
-        totalTime++
+// for (i=0; i<gameTime.length; i++){
+//     if(gameTime[i] > 2){
+//         extraTime++;
+//     }
+//         // console.log(gameTime[i]);
+//         totalTime++
     
-}
-console.log (`Waktu yang kelebihan : ${extraTime} hari, dengan total ${totalTime} hari`)
+// }
+// console.log (`Waktu yang kelebihan : ${extraTime} hari, dengan total ${totalTime} hari`)
 
 // commented test upload using git extention on VsCode

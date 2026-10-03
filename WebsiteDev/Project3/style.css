@@ -1,0 +1,34 @@
+
+.title {
+font-style: italic;
+color: rgb(0, 0, 0);}
+
+h1, h2, h3, p {
+text-align: center;
+color: rgb(0, 0, 0);}
+
+.items {
+display: flex;
+justify-content: center;}
+
+.item {
+display: flex;
+flex-direction: column;}
+
+.portrait {
+width: 260px;
+height: 350px;}
+.item {
+/*Tambahkan code di bawah ini*/
+margin: 10px;
+background-color: gainsboro;}
+h3, p {
+text-align: center;
+padding: 5px;
+color: steelblue;}
+body {
+background-image: url("assets/bg.jpg");
+background-size: cover;}
+section.cover {
+background-image: url("assets/bg.jpg");
+background-size: cover;}
